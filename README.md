@@ -82,7 +82,7 @@
 
 ### 环境要求
 
-- Windows10 及以上版本的操作系统（单文件 exe 双击即用，无需安装 Python / Node），或 Linux 服务器 / Docker 环境，或 Python 3.10+ 源码运行
+- Windows10 及以上版本的操作系统（单文件 exe 双击即用，无需安装 Python / Node），或 Linux 服务器 / Docker 环境
 - 平台需能访问 OLT 设备的 SSH / Telnet 管理端口（启用跳板机时只需能访问跳板机）
 - OLT 设备需开启 SSH 或 Telnet 管理（华为系 CLI 命令风格，如 MA5800 等机型）
 
