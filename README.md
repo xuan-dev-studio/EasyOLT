@@ -143,3 +143,14 @@ docker run -d --name easyolt -e PORT=8765 -v /path/to/data:/app/data --network h
 ![](docs/imgs/截图07.png)
 
 ![](docs/imgs/截图08.png)
+
+![](docs/imgs/截图09.png)
+
+![](docs/imgs/截图10.png)
+
+![](docs/imgs/截图11.png)
+
+![](docs/imgs/截图12.png)
+
+![](docs/imgs/截图13.png)
+
